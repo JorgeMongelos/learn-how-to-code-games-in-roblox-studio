@@ -74,17 +74,3 @@
 ![Show Orientation Indicator Option.](./images/Show%20Orientation%20Indicator%20option.png)
 ### Add Part
 ![Add Part](./images/Add%20parts.png)
-### Backwards
-![Backwards](./images/S%20moves%20backwards.png)
-### Upward
-![Upward](./images/E%20moves%20upwards.png)
-### Downward
-![Downward](./images/Q%20moves%20downwards.png)
-### Right button mouse
-![Right button mouse](./images/Mouse%20Right%20Button.png)
-### Finding World Components.
-![Finding World Components.](./images/Finding%20World%20Components.png)
-### Component Specificity.
-![Component Specificity.](./images/Component%20specificity.png)
-### Mouse Shorcut.
-![Mouse Shortcut.](./images/Mouse%20Shortcut.png)
