@@ -68,12 +68,12 @@
 ![Mouse Shortcut.](./images/Mouse%20Shortcut.png)
 
 ## Move, Scale and Rotate Parts.
-### Left
-![Left](./images/A%20Move%20to%20the%20left.png)
-### Right
-![Right](./images/D%20moves%20to%20the%20right..png)
-### Forward
-![Forward](./images/W%20moves%20forward.png)
+### Camera Indicator.
+![Camera Indicator.](./images/Camera%20Indicator.png)
+### Show Orientation Indicator Option.
+![Show Orientation Indicator Option.](./images/Show%20Orientation%20Indicator%20option.png)
+### Add Part
+![Add Part](./images/Add%20parts.png)
 ### Backwards
 ![Backwards](./images/S%20moves%20backwards.png)
 ### Upward
