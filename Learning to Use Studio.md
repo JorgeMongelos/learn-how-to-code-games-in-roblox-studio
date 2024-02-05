@@ -37,4 +37,54 @@
 ### Associated Properties
 ![Associated Properties](./images/Associated%20Properties.png)
 ### Ribbon Tab
-![Ribbon Tab](./images/Ribbon%20Tab.png)
+![Ribbon Tab](./images/Save%20file%201st%20step.png)
+### Save as 1st step
+![1st step](./images/Save%20file%201st%20step.png)
+### Save as 2nd step
+![2nd step](./images/Save%20as%202nd%20step.png)
+### Save as 3rd & 4th step
+![3rd & 4th step](./images/Save%20as%203rd%20step.png)
+
+## Using the Camera.
+### Left
+![Left](./images/A%20Move%20to%20the%20left.png)
+### Right
+![Right](./images/D%20moves%20to%20the%20right..png)
+### Forward
+![Forward](./images/W%20moves%20forward.png)
+### Backwards
+![Backwards](./images/S%20moves%20backwards.png)
+### Upward
+![Upward](./images/E%20moves%20upwards.png)
+### Downward
+![Downward](./images/Q%20moves%20downwards.png)
+### Right button mouse
+![Right button mouse](./images/Mouse%20Right%20Button.png)
+### Finding World Components.
+![Finding World Components.](./images/Finding%20World%20Components.png)
+### Component Specificity.
+![Component Specificity.](./images/Component%20specificity.png)
+### Mouse Shorcut.
+![Mouse Shortcut.](./images/Mouse%20Shortcut.png)
+
+## Move, Scale and Rotate Parts.
+### Left
+![Left](./images/A%20Move%20to%20the%20left.png)
+### Right
+![Right](./images/D%20moves%20to%20the%20right..png)
+### Forward
+![Forward](./images/W%20moves%20forward.png)
+### Backwards
+![Backwards](./images/S%20moves%20backwards.png)
+### Upward
+![Upward](./images/E%20moves%20upwards.png)
+### Downward
+![Downward](./images/Q%20moves%20downwards.png)
+### Right button mouse
+![Right button mouse](./images/Mouse%20Right%20Button.png)
+### Finding World Components.
+![Finding World Components.](./images/Finding%20World%20Components.png)
+### Component Specificity.
+![Component Specificity.](./images/Component%20specificity.png)
+### Mouse Shorcut.
+![Mouse Shortcut.](./images/Mouse%20Shortcut.png)
