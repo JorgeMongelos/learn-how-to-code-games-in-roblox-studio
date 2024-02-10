@@ -74,3 +74,56 @@
 ![Show Orientation Indicator Option.](./images/Show%20Orientation%20Indicator%20option.png)
 ### Add Part
 ![Add Part](./images/Add%20parts.png)
+### Movement Selector.
+![Movement Selector](./images/Movement%20selector.png)
+### Stud.
+![Stud](./images/Stud.png)
+### Scale Selector.
+![Scale Selector](./images/Scale%20Selector.png)
+### Rotate Selector.
+![Rotate Selector](./images/Rotate%20Selector.png)
+### Increment || Decrement Angle Rotation
+![Angle Rotation](./images/Angle%20Rotation.png)
+### Appearance Properties.
+![Appearance Properties](./images/Appearance%20Properties.png)
+![Appearance Properties II](./images/Appearance%20Properties%20II.png)
+![Appearance Properties III](./images/Appearance%20Properties%20III.png)
+![Appearance Properties IV](./images/Appearance%20Properties%20IV.png)
+![Appearance Properties V](./images/Appearance%20Properties%20V.png)
+![Appearance Properties VI](./images/Appearance%20Properties%20VI.png)
+## Creating Models.
+### Insert from file
+![Insert From File](./images/Insert%20From%20File.png)
+### Parts of a Model.
+![Parts of a Model](./images/Parts%20of%20a%20Model.png)
+
+<table>
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Pomodoro</br> 
+        </td>
+        <td>
+          <ul>
+            <li>1 - 2//2024</li>
+            <li>2 - 2//2024</li>
+            <li>3 - 2//2024</li>
+            <li>4 - 2//2024</li>
+          </ul>
+      </td>
+      </tr>
+      <tr>
+        <td>Pomodoro</br> 
+        </td>
+        <td>
+          <ul>
+            <li>1 - 2/9/2024</li>
+            <li>2 - 2/9/2024</li>
+            <li>3 - 2/9/2024</li>
+            <li>4 - 2/9/2024</li>
+          </ul>
+      </td>
+      </tr>
+    </tbody>
+</table> 
